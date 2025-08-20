@@ -46,6 +46,8 @@ The analysis is based on a MySQL database dump (`crime_la-dumpfile.sql`). The da
 ### 3.1 Entity-Relationship Diagram (ERD)
 The relationships between the tables can be visualized using the diagram below
 
+## 📌 ER Diagram
+
 ```mermaid
 erDiagram
     report_t }o--|| location_t : "occurs in"
@@ -81,6 +83,7 @@ erDiagram
         int victim_age
         char victim_sex
     }
+
 
 
 ### 4. Tools Used
