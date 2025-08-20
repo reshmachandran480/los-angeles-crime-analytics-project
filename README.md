@@ -48,40 +48,11 @@ The relationships between the tables can be visualized using the diagram below
 
 ## 📌 ER Diagram
 
-erDiagram
-    report_t }o--|| location_t : "occurs in"
-    report_t }o--|| officer_t : "is handled by"
-    report_t }o--|| victim_t : "involves"
+## 📌 ER Diagram
 
-    report_t {
-        int report_no PK
-        int area_code FK
-        int officer_code FK
-        int victim_code FK
-        string crime_type
-        time incident_time
-        string case_status_desc
-    }
+![ER Diagram](https://github.com/your-username/your-repo/assets/12345678/abcd1234-efgh-5678-ijkl-9876543210mn)
 
-    location_t {
-        int area_code PK
-        string area_name
-        int cctv_count
-        int population_density
-    }
 
-    officer_t {
-        int officer_code PK
-        string officer_name
-        int precinct_code
-    }
-
-    victim_t {
-        int victim_code PK
-        string victim_name
-        int victim_age
-        char victim_sex
-    }
 
 
 ### 4. Tools Used
