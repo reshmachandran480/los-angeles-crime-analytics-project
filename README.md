@@ -46,7 +46,7 @@ The analysis is based on a MySQL database dump (`crime_la-dumpfile.sql`). The da
 ### 3.1 Entity-Relationship Diagram (ERD)
 The relationships between the tables can be visualized using the diagram below
 
-<img width="884" height="820" alt="Image" src="https://github.com/user-attachments/assets/7cb3d883-3f14-4da1-9379-71273f690573" />
+<img width="884" height="820" alt="ER Diagram" src="https://github.com/user-attachments/assets/7cb3d883-3f14-4da1-9379-71273f690573" />
 
 
 ### 4. Tools Used
