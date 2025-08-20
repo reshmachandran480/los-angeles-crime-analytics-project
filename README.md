@@ -50,7 +50,7 @@ The relationships between the tables can be visualized using the diagram below
 
 ## 📌 ER Diagram
 
-![ER Diagram](https://github.com/your-username/your-repo/assets/12345678/abcd1234-efgh-5678-ijkl-9876543210mn)
+![Database ERD](C:\Users\reshm\Downloads\ERD.png)
 
 
 
