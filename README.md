@@ -48,7 +48,6 @@ The relationships between the tables can be visualized using the diagram below
 
 ## 📌 ER Diagram
 
-```mermaid
 erDiagram
     report_t }o--|| location_t : "occurs in"
     report_t }o--|| officer_t : "is handled by"
@@ -82,8 +81,7 @@ erDiagram
         string victim_name
         int victim_age
         char victim_sex
-    }```
-
+    }
 
 
 ### 4. Tools Used
