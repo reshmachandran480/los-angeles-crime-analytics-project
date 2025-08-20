@@ -82,7 +82,7 @@ erDiagram
         string victim_name
         int victim_age
         char victim_sex
-    }
+    }```
 
 
 
