@@ -101,4 +101,7 @@ This analysis reveals several critical takeaways:
 * **Limited CCTV Deterrence:** The number of cameras in an area does not appear to deter crime, suggesting other socio-economic or policing factors are more influential.
 
 
-
+#### Author
+* **Reshma Chandran R**
+* [LinkedIn Profile](https://www.linkedin.com/in/reshma-chandran-r-586877198/)
+* [GitHub Profile](https://github.com/reshmachandran480)
